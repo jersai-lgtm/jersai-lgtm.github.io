@@ -1,8 +1,15 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.jersai_lgtm.twa",
-        "sha256_cert_fingerprints": ["47:6B:6E:77:C6:82:D5:0D:C9:7E:D5:D4:29:E0:99:71:A0:BA:20:4E:8D:9A:D7:28:D5:C3:BB:9F:5D:44:E7:FB"]
-      }
-    }]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.jersai_lgtm.twa",
+      "sha256_cert_fingerprints": [
+        "0B:CB:BC:BD:16:CF:4D:03:C2:96:E6:9A:22:84:54:99:43:A7:69:E7:45:AA:A2:AF:AF:1C:F5:B3:51:2B:47:38",
+        "47:6B:6E:77:C6:82:D5:0D:C9:7E:D5:D4:29:E0:99:71:A0:BA:20:4E:8D:9A:D7:28:D5:C3:BB:9F:5D:44:E7:FB"
+      ]
+    }
+  }
+]
